@@ -1,4 +1,4 @@
-### Ya Tchoutch Ya mezyen 👋
+### Fullstack developer 👋
 How I be:
 
 ![162060008161460365](https://user-images.githubusercontent.com/76268251/117589418-a4b47f00-b129-11eb-901d-3356d42cb8d2.png)
