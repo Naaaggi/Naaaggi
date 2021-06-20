@@ -1,7 +1,7 @@
 <p align="center"> Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </p>
 
-<h1 align="center">Full stack developer</h1>
+<h1 align="center">Computer Science Student</h1>
 
 <p align="center">
   how i be:<br>
