@@ -3,9 +3,6 @@
 
 <h1 align="center">Computer Science Student at HTW Berlin</h1>
 
-<img align="center" width="300px" src="https://user-images.githubusercontent.com/76268251/125659928-0d98b548-4dad-46c0-9208-ca5bf48db4c0.png" />
-  </p>
-
 <p align="center">
   how i be:<br>
   
