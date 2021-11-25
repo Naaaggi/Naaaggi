@@ -6,7 +6,7 @@
 <p align="center">
   How I be:<br>
   
-<img align="center" width="250px" src="https://user-images.githubusercontent.com/76268251/117589418-a4b47f00-b129-11eb-901d-3356d42cb8d2.png" />
+<img align="center" width="400px" src="https://user-images.githubusercontent.com/76268251/117589418-a4b47f00-b129-11eb-901d-3356d42cb8d2.png" />
   </p>
 
 <p align="center">
