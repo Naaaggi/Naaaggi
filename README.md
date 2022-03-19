@@ -2,7 +2,7 @@
 </p>
 
 <h1 align="center">Computer Science Student at HTW Berlin</h1>
-<h1 align="center">Software Engineering Working Student</h1>
+<h1 align="center">Software Developer Working Student</h1>
 
 
 <p align="center">
