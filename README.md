@@ -1,4 +1,4 @@
-<p align="center"> Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="1px">
+<p align="center"> Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </p>
 
 <h1 align="center">Computer Science Student at HTW Berlin</h1>
