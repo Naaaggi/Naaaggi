@@ -1,7 +1,7 @@
 <p align="center"> Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="48" width="48">
 </p>
 
-<h1 align="center">Computer Science Student at HTW Berlin</h1>
+<h1 align="center">Computer Science Graduate at HTW Berlin</h1>
 <h1 align="center">Software Developer Working Student</h1>
 
 
